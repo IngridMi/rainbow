@@ -51,11 +51,11 @@ const rpcEndpoints: { [network in Network]?: string } = {};
  */
 interface TransactionDetailsReturned {
   data?: TransactionRequest['data'];
-  to?: TransactionRequest['to'];
-  value?: TransactionRequest['value'];
   from?: TransactionRequest['from'];
   gasLimit?: string;
   gasPrice?: string;
+  to?: TransactionRequest['to'];
+  value?: TransactionRequest['value'];
 }
 
 /**
