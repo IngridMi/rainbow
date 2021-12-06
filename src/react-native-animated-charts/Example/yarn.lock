@@ -5524,10 +5524,10 @@ range-parser@~1.2.1:
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.1.tgz#3cf37023d199e1c24d1a55b84800c2f3e6468031"
   integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg==
 
-react-coin-icon@^0.1.19:
-  version "0.1.19"
-  resolved "https://registry.yarnpkg.com/react-coin-icon/-/react-coin-icon-0.1.19.tgz#13da95127d6c1006489c4cf4fa867f19aa861d9c"
-  integrity sha512-8ZhQnbPeIV/l7J4HsxUH+Tpa3GxyI5qK3VTyFw64+QJxOVylxShs0nQiUzic+PI9Rxa/ffEmN6xHhgJ99cTW0A==
+react-coin-icon@^0.1.42:
+  version "0.1.42"
+  resolved "https://registry.yarnpkg.com/react-coin-icon/-/react-coin-icon-0.1.42.tgz#996509daccb19c45e756795b9b925cb0ceda6b17"
+  integrity sha512-PjFpzNDtemYqhNkffj3R1DQGGgUcmR9XMyZihj8WJMMMp+1uO/nXuO2uRlozVEgqcdXtqeK74mbEeIjddKeWiQ==
   dependencies:
     "@svgr/cli" "^4.3.0"
     react-primitives "^0.8.1"
